@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.7)  5 APR 2016 11:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.7)  5 APR 2016 11:59
 entering extended mode
 **Project3_Paper.tex
 (Project3_Paper.tex
@@ -139,45 +139,43 @@ File: Graph11.png Graphic file (type png)
  <use Graph11.png>
 Package pdftex.def Info: Graph11.png used on input line 91.
 (pdftex.def)             Requested size: 185.94005pt x 142.28807pt.
- [6 <./Graph3.png> <./Graph7.png>] <Graph13.png, id=40, 774.7344pt x 592.8549pt
->
-File: Graph13.png Graphic file (type png)
 
-<use Graph13.png>
+<Graph13.png, id=34, 774.7344pt x 592.8549pt>
+File: Graph13.png Graphic file (type png)
+ <use Graph13.png>
 Package pdftex.def Info: Graph13.png used on input line 96.
 (pdftex.def)             Requested size: 193.68312pt x 148.21336pt.
- <Graph12.png, id=41, 774.7344pt x 592.8549pt>
-File: Graph12.png Graphic file (type png)
 
-<use Graph12.png>
+<Graph12.png, id=35, 774.7344pt x 592.8549pt>
+File: Graph12.png Graphic file (type png)
+ <use Graph12.png>
 Package pdftex.def Info: Graph12.png used on input line 97.
 (pdftex.def)             Requested size: 193.68312pt x 148.21336pt.
- <Graph16.png, id=42, 774.7344pt x 592.8549pt>
+ [6 <./Graph3.png> <./Graph7.png>] [7 <./Graph10.png> <./Graph11.png> <./Graph1
+3.png> <./Graph12.png>] <Graph16.png, id=50, 774.7344pt x 592.8549pt>
 File: Graph16.png Graphic file (type png)
-
-<use Graph16.png>
+ <use Graph16.png>
 Package pdftex.def Info: Graph16.png used on input line 105.
 (pdftex.def)             Requested size: 271.1611pt x 207.50232pt.
- <Graph17.png, id=43, 774.7344pt x 592.8549pt>
-File: Graph17.png Graphic file (type png)
 
-<use Graph17.png>
+<Graph17.png, id=51, 774.7344pt x 592.8549pt>
+File: Graph17.png Graphic file (type png)
+ <use Graph17.png>
 Package pdftex.def Info: Graph17.png used on input line 114.
 (pdftex.def)             Requested size: 271.1611pt x 207.50232pt.
- [7 <./Graph10.png> <./Graph11.png> <./Graph13.png> <./Graph12.png>] [8 <./Grap
-h16.png> <./Graph17.png>]
-<Graph21.png, id=57, 774.7344pt x 592.8549pt>
+
+<Graph21.png, id=52, 774.7344pt x 592.8549pt>
 File: Graph21.png Graphic file (type png)
  <use Graph21.png>
 Package pdftex.def Info: Graph21.png used on input line 125.
 (pdftex.def)             Requested size: 271.1611pt x 207.50232pt.
- [9 <./Graph21.png>]
+ [8 <./Graph16.png>] [9 <./Graph17.png> <./Graph21.png>] [10]
 Underfull \hbox (badness 3049) in paragraph at lines 154--155
 []\OT1/cmr/m/n/12 Thorton, Mar-ion, Clas-si-cal Dy-nam-ics of Par-ti-cles and S
 ys-tems.
  []
 
-[10]
+
 Overfull \hbox (106.68098pt too wide) in paragraph at lines 157--158
 []\OT1/cmr/m/n/12 "Putting Rel-a-tiv-ity to the Test", archive.ncsa.illinois.ed
 u/Cyberia/NumRel/EinsteinTest.html 
@@ -187,7 +185,7 @@ u/Cyberia/NumRel/EinsteinTest.html
 Here is how much of TeX's memory you used:
  1495 strings out of 493698
  18798 string characters out of 3144416
- 72593 words of memory out of 3000000
+ 73593 words of memory out of 3000000
  4834 multiletter control sequences out of 15000+200000
  12704 words of font info for 49 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -204,7 +202,7 @@ ublic/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
 
-Output written on Project3_Paper.pdf (11 pages, 578749 bytes).
+Output written on Project3_Paper.pdf (11 pages, 578538 bytes).
 PDF statistics:
  106 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
