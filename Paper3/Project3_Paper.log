@@ -1,0 +1,212 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.7)  5 APR 2016 11:44
+entering extended mode
+**Project3_Paper.tex
+(Project3_Paper.tex
+LaTeX2e <2014/05/01>
+Babel <3.9l> and hyphenation patterns for 68 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+
+LaTeX Warning: Unused global option(s):
+    [righttag].
+
+(Project3_Paper.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks17
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 10.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 10.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3]
+<Graph1.png, id=22, 774.7344pt x 592.8549pt>
+File: Graph1.png Graphic file (type png)
+ <use Graph1.png>
+Package pdftex.def Info: Graph1.png used on input line 64.
+(pdftex.def)             Requested size: 216.81pt x 165.90778pt.
+ [4] [5 <./Graph1.png>] <Graph3.png, id=30, 774.7344pt x 592.8549pt>
+File: Graph3.png Graphic file (type png)
+ <use Graph3.png>
+Package pdftex.def Info: Graph3.png used on input line 81.
+(pdftex.def)             Requested size: 216.81pt x 165.90778pt.
+
+<Graph7.png, id=31, 774.7344pt x 592.8549pt>
+File: Graph7.png Graphic file (type png)
+ <use Graph7.png>
+Package pdftex.def Info: Graph7.png used on input line 82.
+(pdftex.def)             Requested size: 216.81pt x 165.90778pt.
+
+Overfull \hbox (46.23108pt too wide) in paragraph at lines 81--83
+[][] [] 
+ []
+
+<Graph10.png, id=32, 774.7344pt x 592.8549pt>
+File: Graph10.png Graphic file (type png)
+ <use Graph10.png>
+Package pdftex.def Info: Graph10.png used on input line 90.
+(pdftex.def)             Requested size: 185.94005pt x 142.28807pt.
+
+<Graph11.png, id=33, 774.7344pt x 592.8549pt>
+File: Graph11.png Graphic file (type png)
+ <use Graph11.png>
+Package pdftex.def Info: Graph11.png used on input line 91.
+(pdftex.def)             Requested size: 185.94005pt x 142.28807pt.
+ [6 <./Graph3.png> <./Graph7.png>] <Graph13.png, id=40, 774.7344pt x 592.8549pt
+>
+File: Graph13.png Graphic file (type png)
+
+<use Graph13.png>
+Package pdftex.def Info: Graph13.png used on input line 96.
+(pdftex.def)             Requested size: 193.68312pt x 148.21336pt.
+ <Graph12.png, id=41, 774.7344pt x 592.8549pt>
+File: Graph12.png Graphic file (type png)
+
+<use Graph12.png>
+Package pdftex.def Info: Graph12.png used on input line 97.
+(pdftex.def)             Requested size: 193.68312pt x 148.21336pt.
+ <Graph16.png, id=42, 774.7344pt x 592.8549pt>
+File: Graph16.png Graphic file (type png)
+
+<use Graph16.png>
+Package pdftex.def Info: Graph16.png used on input line 105.
+(pdftex.def)             Requested size: 271.1611pt x 207.50232pt.
+ <Graph17.png, id=43, 774.7344pt x 592.8549pt>
+File: Graph17.png Graphic file (type png)
+
+<use Graph17.png>
+Package pdftex.def Info: Graph17.png used on input line 114.
+(pdftex.def)             Requested size: 271.1611pt x 207.50232pt.
+ [7 <./Graph10.png> <./Graph11.png> <./Graph13.png> <./Graph12.png>] [8 <./Grap
+h16.png> <./Graph17.png>]
+<Graph21.png, id=57, 774.7344pt x 592.8549pt>
+File: Graph21.png Graphic file (type png)
+ <use Graph21.png>
+Package pdftex.def Info: Graph21.png used on input line 125.
+(pdftex.def)             Requested size: 271.1611pt x 207.50232pt.
+ [9 <./Graph21.png>]
+Underfull \hbox (badness 3049) in paragraph at lines 154--155
+[]\OT1/cmr/m/n/12 Thorton, Mar-ion, Clas-si-cal Dy-nam-ics of Par-ti-cles and S
+ys-tems.
+ []
+
+[10]
+Overfull \hbox (106.68098pt too wide) in paragraph at lines 157--158
+[]\OT1/cmr/m/n/12 "Putting Rel-a-tiv-ity to the Test", archive.ncsa.illinois.ed
+u/Cyberia/NumRel/EinsteinTest.html 
+ []
+
+[11] (Project3_Paper.aux) ) 
+Here is how much of TeX's memory you used:
+ 1495 strings out of 493698
+ 18798 string characters out of 3144416
+ 72593 words of memory out of 3000000
+ 4834 multiletter control sequences out of 15000+200000
+ 12704 words of font info for 49 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 27i,7n,26p,2034b,258s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+
+Output written on Project3_Paper.pdf (11 pages, 578749 bytes).
+PDF statistics:
+ 106 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
